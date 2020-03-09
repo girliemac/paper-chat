@@ -2,7 +2,7 @@
 
 *Tomomi*
 
-![Material Design and Polymer](http://pubnub.com/blog/wp-content/uploads/2015/01/paper-chat-cover.png "Material Design and Polymer")
+![Material Design and Polymer](paper-chat-cover.png "Material Design and Polymer")
 
 # Paper Chat Demo
 
